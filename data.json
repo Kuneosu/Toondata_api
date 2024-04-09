@@ -1,15 +1,5 @@
-{
-  "toonList": [
-    {
-	"titleImage": "https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_1_title.png",
-	"mainGIF" = "https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_1_main.gif",
-        "subTitle" = "현군, 장성락(REDICE STUDIO), 추공",
-        "backgroundImage" = "https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_1_background.jpeg",
-    },{
-	"titleImage": "https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_2_title.png",
-        "mainGIF" = "https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_2_main.png",
-        "subTitle" = "null",
-        "backgroundImage" = "https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_2_background.jpeg"
-    }
-  ]
+ {titleImage":"https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_1_title.png",
+"mainGIF":"https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_1_main.gif",
+"subTitle":"현군, 장성락(REDICE STUDIO), 추공",
+"backgroundImage":"https://raw.githubusercontent.com/Kuneosu/Toondata_api/main/toondata/toon_1_background.jpeg"
 }
